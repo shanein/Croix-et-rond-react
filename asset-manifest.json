@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Croix-et-rond-react/static/css/main.cc1c12b3.css",
+    "main.js": "/Croix-et-rond-react/static/js/main.3a30a8bd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Croix-et-rond-react/static/js/787.28cb0dcd.chunk.js",
+    "static/media/rond.png": "/Croix-et-rond-react/static/media/rond.d5f81653ade1122dd492.png",
+    "static/media/logo.svg": "/Croix-et-rond-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Croix-et-rond-react/index.html",
+    "main.cc1c12b3.css.map": "/Croix-et-rond-react/static/css/main.cc1c12b3.css.map",
+    "main.3a30a8bd.js.map": "/Croix-et-rond-react/static/js/main.3a30a8bd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Croix-et-rond-react/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc1c12b3.css",
+    "static/js/main.3a30a8bd.js"
+  ]
+}
